@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ConsoleApplication1\\",
+  "WorkspaceRootPath": "H:\\\u0418\u0421\u0420\u041F\u041E\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435\\\u041B\u0430\u04311\\ConsoleApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC47EBFA-FC69-46B1-A5C1-7489B152845E}|ConsoleApplication1\\ConsoleApplication1.vcxproj|H:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DC47EBFA-FC69-46B1-A5C1-7489B152845E}|ConsoleApplication1\\ConsoleApplication1.vcxproj|H:\\\u0418\u0421\u0420\u041F\u041E\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435\\\u041B\u0430\u04311\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DC47EBFA-FC69-46B1-A5C1-7489B152845E}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ConsoleApplication1.cpp",
-              "DocumentMoniker": "H:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "DocumentMoniker": "H:\\\u0418\u0421\u0420\u041F\u041E\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435\\\u041B\u0430\u04311\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication1\\ConsoleApplication1.cpp",
-              "ToolTip": "H:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "H:\\\u0418\u0421\u0420\u041F\u041E\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435\\\u041B\u0430\u04311\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
               "RelativeToolTip": "ConsoleApplication1\\ConsoleApplication1.cpp",
-              "ViewState": "AQIAADsAAAAAAAAAAADwv2AAAAAJAAAA",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHwAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-04T10:41:39.872Z",
               "EditorCaption": ""

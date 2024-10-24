@@ -119,6 +119,11 @@ int main() {
             cout << "Диаметр окружности: " << diameter << endl;
             break;
         }
+        case 6: 
+            // Вычисление диаметра окружности
+            double dia = sectors[sectorIndex].calculateDiameter();
+            cout << "Диаметр окружности: " << dia << endl;
+            break;
         default:
             cout << "Неверный выбор операции.";
         }
