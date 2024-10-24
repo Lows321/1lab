@@ -11,7 +11,8 @@ class Program
         double precision = Convert.ToDouble(Console.ReadLine());
 
         double estimate = FindSqrt(x, precision);
-
+        Console.WriteLine("Update");
+        int cnt = 0;
         Console.WriteLine($"The value of sqrt(1+{x}) with precision {precision} is: {estimate}");
         GenerateRandomNumbers(estimate, precision);
     }
