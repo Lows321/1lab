@@ -107,8 +107,9 @@ class Program
         Console.WriteLine("2. Вычитание");
         Console.WriteLine("3. Умножение");
         Console.WriteLine("4. Деление");
+        Console.WriteLine("fddfs");
         Console.WriteLine("5. Сравнение");
-        int operation = int.Parse(Console.ReadLine());
+        int operation = int.Parse(Console.ReadLine(ds));
 
         RationalNumber result = null;
 
